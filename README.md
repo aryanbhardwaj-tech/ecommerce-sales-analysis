@@ -34,6 +34,25 @@ Python, Pandas, Plotly, Jupyter Notebook
 - Plan inventory and marketing around the September to December peak.
 - Focus on cost control in the Consumer segment.
 
+## Charts
+### Monthly Sales
+![Monthly Sales](01-monthly-sales.png.png)
+
+### Sales by Category
+![Sales by Category](02-sales-by-category.png.png)
+
+### Sales by Sub-Category
+![Sales by Sub-Category](03-sales-by-subcategory.png.png)
+
+### Profit by Category
+![Profit by Category](04-profit-by-category.png.png)
+
+### Profit by Sub-Category
+![Profit by Sub-Category](05-profit-by-subcategory.png.png)
+
+### Sales and Profit by Segment
+![Sales and Profit by Segment](06-segment-sales-profit.png.png)
+
 ## How to Run
 ```bash
 git clone https://github.com/aryanbhardwaj-tech/ecommerce-sales-analysis.git
